@@ -18,25 +18,20 @@ body {
 
 }
 
-div {
-
-    height: 6em;
-    width: 14em;
-
+h1 {
+    
+    height: 4em;
+    width: 10em;
+    
+    color: white;
     background-color: #645CBB;
-
+    
     border-radius: 10px;
-
+    
     margin-top: 6em;
-
+    
     display: flex;
     justify-content: center;
     align-items: center;
-
-}
-
-h1 {
-
-    color: white;
 
 }
